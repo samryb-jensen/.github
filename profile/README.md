@@ -1,12 +1,17 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# Academic Projects Hub
+This organization is the home for my school-related development work.
+I use it to keep coursework, assignments, labs, and class projects organized in one place, while keeping my personal GitHub centered on independent and long-term personal work. It is both a workspace for active academic projects and a record of the skills I develop throughout my studies.
+## Inside this organization
+- Coursework and graded assignments
+- Labs, exercises, and practice repositories
+- Individual and collaborative class projects
+- Technical experiments connected to my studies
+- Project history that reflects my learning over time
+## Purpose
+This setup helps me:
+- separate academic work from personal projects
+- organize repositories in a cleaner, more structured way
+- track progress across courses and semesters
+- collaborate more effectively on shared school work
+## Note
+The repositories here vary in size and scope, but each one contributes to my growth as a student builder and developer.
